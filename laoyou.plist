@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kony.konypoc</string>
+				<string>com.digitalhub.laoyouquan</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>数码港.ipa 测试包</string>
+				<string>老友圈</string>
 			</dict>
 		</dict>
 	</array>
