@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://94.191.126.168:9000/typhoon/__UNI__78112A2_0828011042.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIOSFODNN7EXAMPLE%2F20190828%2F%2Fs3%2Faws4_request&amp;X-Amz-Date=20190828T121547Z&amp;X-Amz-Expires=432000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b47b666f3e3f90787686a718ab4a432460eb83e3540b58bd7767cea235b1dab8</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://94.191.126.168:9000/typhoon/Anway512x512.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIOSFODNN7EXAMPLE%2F20190828%2F%2Fs3%2Faws4_request&amp;X-Amz-Date=20190828T121649Z&amp;X-Amz-Expires=432000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fc405de137463ac977be8163a44504d0c403fa51cb54e544656f2cc2da2eb494</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.kony.konypoc</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>数码港.ipa 测试包</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
