@@ -19,19 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
+					<string>http://94.191.126.168:9000/typhoon/Anway512x512.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIOSFODNN7EXAMPLE%2F20190828%2F%2Fs3%2Faws4_request&amp;X-Amz-Date=20190828T071528Z&amp;X-Amz-Expires=432000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9a531ca16cb6a6f4c631f983937b984ea02fa4efc21139bf15a8eeffaaf5f046</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kony.konypoc</string>
+				<string>com.amway.amhubPhone</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>数码港.ipa 测试包</string>
+				<string>DigitalHub</string>
 			</dict>
 		</dict>
 	</array>
