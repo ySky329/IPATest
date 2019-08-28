@@ -20,7 +20,7 @@
 					<true/>
 					<key>url</key>
 					<string>http://94.191.126.168:9000/typhoon/Anway512x512.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIOSFODNN7EXAMPLE%2F20190828%2F%2Fs3%2Faws4_request&amp;X-Amz-Date=20190828T121649Z&amp;X-Amz-Expires=432000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fc405de137463ac977be8163a44504d0c403fa51cb54e544656f2cc2da2eb494</string>
-				</dict>
+			</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
